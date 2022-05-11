@@ -1,7 +1,9 @@
 # Prerequisites
+.vs/
 *.d
 
 # Object files
+obj/
 *.o
 *.ko
 *.obj
@@ -29,6 +31,7 @@
 *.dylib
 
 # Executables
+bin/
 *.exe
 *.out
 *.app
@@ -37,6 +40,7 @@
 *.hex
 
 # Debug files
+Debug/
 *.dSYM/
 *.su
 *.idb
